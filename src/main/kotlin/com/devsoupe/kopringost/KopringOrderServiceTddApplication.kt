@@ -1,4 +1,4 @@
-package com.devsoupe.kopringost.kopringorderservicetdd
+package com.devsoupe.kopringost
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
